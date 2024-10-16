@@ -1,10 +1,7 @@
 # Creación de Video Juego
+![image](https://github.com/user-attachments/assets/f79af09d-176a-4063-b8f7-9c1ab1d38888)
 <p align="center">
-    ![image](https://github.com/user-attachments/assets/f79af09d-176a-4063-b8f7-9c1ab1d38888)
-
-
-
-  <p align="center">
+      <p align="center">
     La materia de programación de videojuegos en Unity se centra en enseñar a los estudiantes a desarrollar videojuegos utilizando     el motor de desarrollo Unity y el lenguaje de programación C#. A lo largo del curso, los estudiantes aprenderán a:
 
   Familiarizarse con el entorno de Unity: Navegación y manipulación del editor de Unity.
