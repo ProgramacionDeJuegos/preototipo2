@@ -46,28 +46,15 @@ El juego se desarrolla en tres niveles principales: la mina subterránea, una of
 ## Código Fuente
 
 * Lección 1
-  * >  <a href="https://drive.google.com/drive/folders/1Y1YFTRD7MQ1wFgvnFx6RPU5kH2_OmqXl?usp=drive_link">Prototipo 1</a>
+  * >  <a href="https://drive.google.com/drive/folders/1zufoKnRSEIl3rteA2iryR4t8hbT82vcn?usp=drive_link">Prototipo 1</a>
 * Lección 2
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * >  <a href="https://drive.google.com/drive/folders/1Ybg7eJWiR7iaC1Twu0TONEcwO6SgrC7H?usp=drive_link">Prototipo 2</a>
 * Lección 3
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* Lección 4
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* Lección 5
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* VideoJuego
+  * >  <a href="https://drive.google.com/drive/folders/1aQRBWJ_Egr4Nhq5g4xbuEVs4ex3prtEZ?usp=drive_link">Prototipo 3</a>
+  * >  <a href="https://drive.google.com/drive/folders/1aQRBWJ_Egr4Nhq5g4xbuEVs4ex3prtEZ?usp=drive_link">Prototipo 3 PDF</a>
+* Desafios
+  * >  <a href="https://drive.google.com/drive/folders/1Y1YFTRD7MQ1wFgvnFx6RPU5kH2_OmqXl?usp=drive_link">Desafio 1</a>
+  * >  <a href="https://drive.google.com/drive/folders/1IAvXR4-Xwcm-woELRNRoewsVm8v6g9MC?usp=drive_link">Desafio 2</a>
 
 ## Planificación
 
