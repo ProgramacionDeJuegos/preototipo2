@@ -75,8 +75,8 @@ El juego se desarrolla en tres niveles principales: la mina subterránea, una of
 
 ## Planificación
 
-![4337008](![image](https://github.com/user-attachments/assets/4b50db91-ff0b-4e4a-8c82-3eaba0bb9b6a)
-)
+![image](https://github.com/user-attachments/assets/5a90905a-a1e1-4abd-b016-8907f4a27894)
+
 
 ## Autores
 Arturo Sierra y Luis Narvaez
