@@ -46,10 +46,7 @@ El juego se desarrolla en tres niveles principales: la mina subterránea, una of
 ## Código Fuente
 
 * Lección 1
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * >  <a href="[https://reponame/issues/new?template=bug.md](https://drive.google.com/drive/folders/1Y1YFTRD7MQ1wFgvnFx6RPU5kH2_OmqXl?usp=drive_link)">Prototipo 1</a>
 * Lección 2
   * > Tutorial
   * > Laboratorio
