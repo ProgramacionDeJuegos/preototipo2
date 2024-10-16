@@ -1,6 +1,7 @@
 # Creación de Video Juego
 <p align="center">
-    ![image](https://github.com/user-attachments/assets/9bd17b10-1480-4c91-9930-c47039c1c272)
+    ![image](https://github.com/user-attachments/assets/f79af09d-176a-4063-b8f7-9c1ab1d38888)
+
 
 
   <p align="center">
