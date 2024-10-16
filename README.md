@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    < img =![Portada 1](https://github.com/user-attachments/assets/9bd17b10-1480-4c91-9930-c47039c1c272)>
+    ![image](https://github.com/user-attachments/assets/9bd17b10-1480-4c91-9930-c47039c1c272)
 
 
   <p align="center">
