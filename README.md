@@ -75,10 +75,11 @@ El juego se desarrolla en tres niveles principales: la mina subterránea, una of
 
 ## Planificación
 
-![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
+![4337008](![image](https://github.com/user-attachments/assets/4b50db91-ff0b-4e4a-8c82-3eaba0bb9b6a)
+)
 
 ## Autores
-Bill Gates & Steve Jobs
+Arturo Sierra y Luis Narvaez
 
 ## Copyright
-Derechos Reservados 2022
+Derechos Reservados 2024
