@@ -52,6 +52,9 @@ El juego se desarrolla en tres niveles principales: la mina subterránea, una of
 * Lección 3
   * >  <a href="https://drive.google.com/drive/folders/1aQRBWJ_Egr4Nhq5g4xbuEVs4ex3prtEZ?usp=drive_link">Prototipo 3</a>
   * >  <a href="https://drive.google.com/drive/folders/1aQRBWJ_Egr4Nhq5g4xbuEVs4ex3prtEZ?usp=drive_link">Prototipo 3 PDF</a>
+* Lección 4
+  * >  <a href="https://drive.google.com/drive/folders/1_lHE-niFz1UQIGDjjZ82WMjY-aNQbuG3?usp=sharing_link">Prototipo 4</a>
+  * >  <a href="https://drive.google.com/drive/folders/1aQRBWJ_Egr4Nhq5g4xbuEVs4ex3prtEZ?usp=drive_link">Prototipo 4 PDF</a>
 * Desafios
   * >  <a href="https://drive.google.com/drive/folders/1Y1YFTRD7MQ1wFgvnFx6RPU5kH2_OmqXl?usp=drive_link">Desafio 1</a>
   * >  <a href="https://drive.google.com/drive/folders/1IAvXR4-Xwcm-woELRNRoewsVm8v6g9MC?usp=drive_link">Desafio 2</a>
