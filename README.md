@@ -61,6 +61,7 @@ El juego se desarrolla en tres niveles principales: la mina subterránea, una of
 * Desafios
   * >  <a href="https://drive.google.com/drive/folders/1Y1YFTRD7MQ1wFgvnFx6RPU5kH2_OmqXl?usp=drive_link">Desafio 1</a>
   * >  <a href="https://drive.google.com/drive/folders/1IAvXR4-Xwcm-woELRNRoewsVm8v6g9MC?usp=drive_link">Desafio 2</a>
+  * >  <a href="https://drive.google.com/drive/folders/1O2jcZefU8h4HY-TjJnFyKzfKUPq2vdQq?usp=sharing_link">Desafio 3</a>
   * >  <a href="https://drive.google.com/drive/folders/1ftfaocgD7554dBaNSSBMka-pVd5qhgmh?usp=sharing_link">Desafio 4</a>
   * >  <a href="https://drive.google.com/drive/folders/12WdRm0of0IlLn0lbOfKy63cMvd1QfDo3?usp=sharing_link">Desafio 5</a>
 
