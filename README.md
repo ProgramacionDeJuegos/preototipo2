@@ -66,6 +66,8 @@ El juego se desarrolla en tres niveles principales: la mina subterránea, una of
   * >  <a href="https://drive.google.com/drive/folders/12WdRm0of0IlLn0lbOfKy63cMvd1QfDo3?usp=sharing_link">Desafio 5</a>
 * Presentación
   * >  <a href="https://docs.google.com/presentation/d/1j2r13QwOISK7-YQVcGVXiZZKnWIGSjbP6EGi7Hfz81E/edit?usp=sharing">Construccion de aplicaciones</a>
+* Aspectos Legales
+  * >  <a href="https://docs.google.com/document/d/1I0GWeLY5y1537RGNLbavRBMd2hczRoBGJ1SM1u9Arm8/edit?usp=sharing">Aspectos Legales</a>
 
 ## Planificación
 
