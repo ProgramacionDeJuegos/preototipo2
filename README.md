@@ -46,7 +46,9 @@ El juego se desarrolla en tres niveles principales: la mina subterránea, una of
 ## Código Fuente
 
 * Desacargar Videojuego
-  * >  <a href="https://drive.google.com/drive/folders/1hSRdR60Fv8TY1LNunPpmCUGoneIals7-?usp=sharing">Prototipo 1</a>
+  * >  <a href="https://drive.google.com/drive/folders/1hSRdR60Fv8TY1LNunPpmCUGoneIals7-?usp=sharing">Android</a>
+  * >  <a href="https://drive.google.com/drive/folders/1Dypxb8S-KDoJqmmVAu0z5Hq0QDgrQxSJ?usp=drive_link">PC</a>
+  * >  <a href="https://optimusmars3098.itch.io/el-minero">WEB</a>
 * Lección 1
   * >  <a href="https://drive.google.com/drive/folders/1zufoKnRSEIl3rteA2iryR4t8hbT82vcn?usp=drive_link">Prototipo 1</a>
 * Lección 2
